@@ -5,6 +5,7 @@ public class Hello
 		System.out.println("我是 Hello Git! ");
 
 		String str = "第一次修改";
+		String str = "第二次修改";
 
 
 	}
