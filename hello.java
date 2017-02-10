@@ -4,6 +4,8 @@ public class Hello
 	
 		System.out.println("我是 Hello Git! ");
 
+		String str = "第一次修改";
+
 
 	}
 }
