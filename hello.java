@@ -5,7 +5,8 @@ public class Hello
 				
 		System.out.println("Hello XinEri");
 	
-		int a =0;
-		int b=0;
+		System.out.println("Hello Git");
+
+
 	}
 }
